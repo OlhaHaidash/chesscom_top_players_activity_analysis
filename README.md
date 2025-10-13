@@ -32,6 +32,11 @@ Running the scripts will create local CSV files for analysis.
 - /data              # CSV files generated locally by scripts (to be created)
 - README.md          # Project documentation
 
+## Data Version and Update Info
+The data was last collected on **October 13, 2025** using the Chess.com Public API.  
+It reflects the top 50 players in Blitz, Bullet, and Rapid categories at that time.  
+Future updates may include new data extractions if rating positions change significantly.
+
 ## Installation and Usage (planned)
 
 ### 1. Install dependencies
