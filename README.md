@@ -32,20 +32,24 @@ Running the scripts will create local CSV files for analysis.
 - /data              # CSV files generated locally by scripts (to be created)
 - README.md          # Project documentation
 
-## Installation and Usage
+## Installation and Usage (planned)
 
 ### 1. Install dependencies
-```bash
-pip install -r requirements.txt
 
+`bash`
+
+`pip install -r requirements.txt`
+  
 ### 2. Run the data collection scripts:
-python scripts/fetch_top_players.py
+
+`python scripts/fetch_top_players.py`
 
 ### 3. Open the Jupyter Notebook to explore the data:
-jupyter notebook notebooks/top_players_analysis.ipynb
 
+`jupyter notebook notebooks/top_players_analysis.ipynb`
 
 ## Notes
+
 The collected data includes top players’ profiles, ratings, activity, and game archives.
 
 Users can run the scripts to update data or perform their own analysis.
